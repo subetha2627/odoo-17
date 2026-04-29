@@ -1,0 +1,44 @@
+# generated: 2026-04-29
+# last_updated: 2026-04-29
+# project: odoo-17
+# project_key: NOKEY
+# tracking_system: file-system
+# story_location: e:/odoo/odoo-17/_bmad-output/implementation-artifacts
+
+generated: 2026-04-29
+last_updated: 2026-04-29
+project: odoo-17
+project_key: NOKEY
+tracking_system: file-system
+story_location: e:/odoo/odoo-17/_bmad-output/implementation-artifacts
+
+development_status:
+  epic-25: done
+  25-1-amc-customer-classification: done
+  25-2-automatic-amc-product-addition-to-quotes: done
+  25-3-zoho-synchronization-governance: done
+  25-4-integration-field-visibility-cleanup: done
+  epic-25-retrospective: done
+
+  epic-26: done
+  26-1-portal-trn-update-request: done
+  26-2-admin-trn-approval-workflow: done
+  26-3-portal-trn-approval-status-visibility: done
+  26-4-conditional-subscription-portal-visibility: done
+  26-5-subscription-upgrade-7-day-guardrail: done
+  epic-26-retrospective: done
+
+  epic-27: done
+  27-1-start-and-end-dates-on-line-items: done
+  27-2-day-basis-prorating-engine: done
+  27-3-automated-credit-note-generation: done
+  27-4-financial-correction-audit-trail: done
+  epic-27-retrospective: done
+
+  epic-28: done
+  28-1-confirmed-sales-to-purchase-blocking: done
+  28-2-stable-sales-to-purchase-po-generation: done
+  28-3-unified-transactional-history-in-crm: done
+  28-4-sales-order-versioning: done
+  28-5-subscription-package-operation-remarks: done
+  epic-28-retrospective: done
